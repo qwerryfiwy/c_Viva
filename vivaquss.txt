@@ -1,0 +1,15 @@
+1. Write a C program to convert a given integer (in seconds) to hours, minutes, and seconds.
+2. Write a C program to check whether a triangle is Equilateral, scalene, or isosceles
+3. Write a C program to check whether a given year is Leap year or not
+4. Write a C program a program to check whether an alphabet is a vowel or consonant
+5. Write a C program to convert Binary to Octal number system using loop
+6. Write a C program to enter 10 positive numbers, but if you enter a negative number it quits.
+7. Write a C program to check whether a number is positive, negative or zero using switch case.
+8. Write a C program to print positive integers from 1 to 10 using for loop, while loop and do while loop.
+9. Write a C program to reverse the elements in an array.
+10. Write a C program to sort the array using bubble sort
+11. Write a C program to find the max and min number from an array
+12. Write a program in C to find the sum of all elements of the array.
+13. Write a program in C to separate odd and even integers into separate arrays.
+14. Write a program in C to concatenate two strings.
+15. Write a program to store and print the roll no., name , age and marks of a student using structures.
